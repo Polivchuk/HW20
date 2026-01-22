@@ -1,0 +1,43 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blueviolet;
+  font-family: playfair display;
+  text-align: center;
+   font-size: 30px;
+  }
+
+p {
+  color: yellow;
+  font-family: playfair display;
+  font-size: 30px;
+}
+
+.highlight {
+ color: yellow;
+  font-size: 35px;
+  }
+  
+
+.text-normal{
+  color: white;
+  font-size: 20px;
+  font-family: playfair display;
+}
+
+
+
+  .boxes-list {
+    border: 2px solid ;
+    padding: 60px;
+    width: fit-content;
+    color: blueviolet;
+    font-size: 100;
+    margin: 0 auto;
+  }
+  .boxes-list li {
+    font-size: 25px;
+  }
+ 
